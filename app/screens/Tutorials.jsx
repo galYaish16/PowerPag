@@ -44,6 +44,11 @@ export default function Tutorials() {
       url: isHebrew ?  "IrWU8xEmzgw" : "Jk8bnpLfS9I",
       isPlaying: false,
     },
+    {
+      id: 6,
+      url: isHebrew ?  "IrWU8xEmzgw" : "Jk8bnpLfS9I",
+      isPlaying: false,
+    },
   ];
   
   const onStateChange = useCallback((state) => {
