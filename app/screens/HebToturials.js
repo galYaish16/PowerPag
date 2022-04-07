@@ -77,7 +77,6 @@ const styles = StyleSheet.create({
 });
 
 const title = isHebrew ? "סרטוני הדרכה" : "Toutorials";
-console.log(title);
 function HebToturials(props) {
   return (
     <SafeAreaView style={styles.SafeAreaView}>
